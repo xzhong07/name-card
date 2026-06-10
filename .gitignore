@@ -5,4 +5,9 @@ dist/
 .coverage*
 htmlcov/
 .tox/
+.DS_Store
 docs/_build/
+venv/
+__pycache__/
+node_modules/
+.env
